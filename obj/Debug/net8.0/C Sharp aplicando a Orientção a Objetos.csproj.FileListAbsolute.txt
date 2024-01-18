@@ -12,3 +12,4 @@
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp aplicando a Orientção a Objetos/obj/Debug/net8.0/C Sharp aplicando a Orientção a Objetos.pdb
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp aplicando a Orientção a Objetos/obj/Debug/net8.0/C Sharp aplicando a Orientção a Objetos.genruntimeconfig.cache
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp aplicando a Orientção a Objetos/obj/Debug/net8.0/ref/C Sharp aplicando a Orientção a Objetos.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp aplicando a Orientção a Objetos/obj/Debug/net8.0/C Sharp aplicando a Orientção a Objetos.sourcelink.json

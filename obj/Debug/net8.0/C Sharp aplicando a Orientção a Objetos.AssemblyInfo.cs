@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C Sharp aplicando a Orientção a Objetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42242f6eff1a7070172d129bb4257bf474135b69")]
 [assembly: System.Reflection.AssemblyProductAttribute("C Sharp aplicando a Orientção a Objetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C Sharp aplicando a Orientção a Objetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
